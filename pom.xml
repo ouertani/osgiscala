@@ -64,7 +64,7 @@
                     <instructions>
                         <Export-Package>com.jtunisie.osgi.scala.*</Export-Package>
                         <Include-Resource>src/main/resources</Include-Resource>
-                       <Private-Package>import com.jtunisie.osgi.scala.impl.*</Private-Package>
+                       <Private-Package>com.jtunisie.osgi.scala.impl.*</Private-Package>
                     </instructions>
                 </configuration>
             </plugin>
