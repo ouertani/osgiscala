@@ -35,9 +35,7 @@
                     <groupId>org.scala-tools</groupId>
                     <artifactId>maven-scala-plugin</artifactId>
                     <version>2.6</version>
-                    <configuration>
-                        <mainClass>com.mycompany.com.sagem.Main</mainClass>
-                    </configuration>
+                   
                 </plugin>
             </plugins>
         </pluginManagement>
