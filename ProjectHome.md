@@ -1,0 +1,1 @@
+cerate a osgi bundle with scala  and spring dm using maven bnd tool.
